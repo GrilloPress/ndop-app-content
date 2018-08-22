@@ -4327,7 +4327,6 @@ html * {
 html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  background-color: #005EB8;
   color: #212B32;
   min-height: 100%; }
 
